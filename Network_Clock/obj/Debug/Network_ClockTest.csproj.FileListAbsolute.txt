@@ -1,0 +1,7 @@
+R:\Eigene Dokumente\Visual Studio 2013\Projects\1_Tests\Network_ClockTest\Network_Clock\bin\Debug\Networking.exe
+R:\Eigene Dokumente\Visual Studio 2013\Projects\1_Tests\Network_ClockTest\Network_Clock\bin\Debug\Networking.pdb
+R:\Eigene Dokumente\Visual Studio 2013\Projects\1_Tests\Network_ClockTest\Network_Clock\obj\Debug\Network_ClockTest.csprojResolveAssemblyReference.cache
+R:\Eigene Dokumente\Visual Studio 2013\Projects\1_Tests\Network_ClockTest\Network_Clock\obj\Debug\Networking.Properties.Resources.resources
+R:\Eigene Dokumente\Visual Studio 2013\Projects\1_Tests\Network_ClockTest\Network_Clock\obj\Debug\Network_ClockTest.csproj.GenerateResource.Cache
+R:\Eigene Dokumente\Visual Studio 2013\Projects\1_Tests\Network_ClockTest\Network_Clock\obj\Debug\Networking.exe
+R:\Eigene Dokumente\Visual Studio 2013\Projects\1_Tests\Network_ClockTest\Network_Clock\obj\Debug\Networking.pdb

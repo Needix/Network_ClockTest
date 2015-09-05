@@ -44,10 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clock\Client\Client.cs" />
-    <Compile Include="Clock\Server\SClient.cs" />
-    <Compile Include="Clock\Server\Server.cs" />
-    <Compile Include="Clock\Socket.cs" />
+    <Compile Include="Network_ClockTest\Client\ClientSocket.cs" />
+    <Compile Include="Network_ClockTest\Server\ServerSocket.cs" />
+    <Compile Include="Network_ClockTest\Server\ServerAcceptor.cs" />
+    <Compile Include="Network_ClockTest\ASocket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
